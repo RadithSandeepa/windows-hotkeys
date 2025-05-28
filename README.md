@@ -93,6 +93,7 @@ This repository contains a collection of useful Windows keyboard shortcuts that 
 
 ## Miscellaneous
 - **F5**: Refresh the current window/page.
+- **F5** *(Notepad)*: Insert current date and time in Notepad. On some keyboards (especially laptops), use Fn + F5 if F5 alone doesn’t work.
 - **Windows + Pause/Break**: Open System Properties.
   
 ## 📚 Resources
