@@ -97,5 +97,5 @@ This repository contains a collection of useful Windows keyboard shortcuts that 
 - **Windows + Pause/Break**: Open System Properties.
   
 ## 📚 Resources
-- [Microsoft Official Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows)
-- [Windows Productivity Guide](https://learn.microsoft.com/en-us/windows/productivity/)
+- [Keyboard shortcuts in Windows](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec)
+- [Use Windows shortcuts to stay organized](https://www.microsoft.com/en-us/windows/tips/windows-shortcuts)
