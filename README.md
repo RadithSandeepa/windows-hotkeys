@@ -32,16 +32,16 @@ This repository contains a collection of useful Windows keyboard shortcuts that 
 - **Alt + Left/Right Arrow**: Go back/forward.
 - **Ctrl + N**: Open a new File Explorer window.
 - **Ctrl + Shift + N**: Create a new folder.
-- **F2**: Rename selected item.
-- **F3**: Search in File Explorer.
+- **F2**: Rename selected item.  On some keyboards (especially laptops), use Fn + F2 if F2 alone doesn’t work.
+- **F3**: Search in File Explorer.  On some keyboards (especially laptops), use Fn + F3 if F3 alone doesn’t work.
 
 ## General Shortcuts
 - **Ctrl + C**: Copy selected item.
 - **Ctrl + V**: Paste copied item.
 - **Ctrl + X**: Cut selected item.
 - **Ctrl + Z**: Undo the last action.
-- **Ctrl + A**: Select all items.
 - **Ctrl + Y**: Redo the last undone action.
+- **Ctrl + A**: Select all items.
 - **Alt + Tab**: Switch between open apps.
 - **Alt + F4**: Close the currently active window or app.
 - **Windows + D**: Show or hide the desktop.
