@@ -12,6 +12,7 @@ This repository contains a collection of useful Windows keyboard shortcuts that 
 - **Left Alt + Left Shift + Print Screen**: Toggle High Contrast.
 
 ## Browser Shortcuts
+- **Alt + Left/Right Arrow**: Go back/forward between pages.
 - **Ctrl + T**: Open a new tab in browser.
 - **Ctrl + Shift + T**: Reopen the last closed browser tab.
 - **Ctrl + Shift + N**: Open a new incognito/private window.
