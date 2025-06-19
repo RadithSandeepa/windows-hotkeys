@@ -18,6 +18,7 @@ This repository contains a collection of useful Windows keyboard shortcuts that 
 - **Ctrl + Shift + I**: Open the Developer Tools, typically to the last-used tab (Chrome, Edge, Firefox).
 - **Ctrl + Shift + J**: Open the Developer Tools with the Console tab focused (Chrome, Edge, Firefox).
 - **Ctrl + Shift + N**: Open a new incognito/private window.
+- **Ctrl + Shift + R**: Hard refresh the current page, bypassing cache.
 - **Ctrl + Shift + T**: Reopen the last closed browser tab.
 
 ## Clipboard and Emoji
